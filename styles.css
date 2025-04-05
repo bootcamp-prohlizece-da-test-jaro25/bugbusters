@@ -3,8 +3,8 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fdfaf6;
-    color: #5a4a42;
+    background-color: #dea963;
+    color: #9b0e36;
     text-align: center;
 }
 s
@@ -42,7 +42,9 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
+
     background: linear-gradient(to bottom, rgba(237, 233, 233, 0.3), rgba(236, 232, 232, 0.5)), url('pexels-meri-verbina-450425482-15505899.jpg') no-repeat center center/cover;
+
     padding: 100px 20px;
     color: #3e322c;
 }
@@ -76,7 +78,7 @@ section {
 }
 
 footer {
-    background: #f5ebe0;
+    background: #050505;
     padding: 20px;
     margin-top: 20px;
     font-size: 0.9em;
