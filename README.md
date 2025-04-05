@@ -1,5 +1,5 @@
 # Bootcamp instrukce
-
+Ahoj
 ### Procvičování verzování
 - Naklonujte si repozitář
 - Vytvořte novou větev např. s vaším jménem
